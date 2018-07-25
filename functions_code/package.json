@@ -1,0 +1,10 @@
+{
+    "name": "servless-app",
+    "version": "0.0.0",
+    "description": "serverless web app",
+    "repository": {},
+    "license": "",
+    "dependencies": {
+      "redis": "2.8.0"
+    }
+  }
